@@ -1,5 +1,5 @@
 function Logo() {
-  return <div>Logo</div>;
+  return <div>Blogify</div>;
 }
 
 export default Logo;
