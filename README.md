@@ -30,7 +30,7 @@ Blogify invites you to discover a hub of creativity, presenting a captivating ho
 - **Add & Edit Post Routes** (`/add-post`, `/edit-post/:slug`): Create new posts or tweak existing ones with ease.
 - **Single Post Route** (`/post/:slug`): Dive into a single post using its unique `:slug`.
 
-### Technologies & Implementation
+## Technologies & Implementation
 
 ### Technology Stack
 
